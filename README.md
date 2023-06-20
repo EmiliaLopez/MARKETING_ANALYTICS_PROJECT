@@ -6,7 +6,7 @@ IFood is the lead food delivery app in Brazil, the company holds over 80% market
 
 ![](https://github.com/EmiliaLopez/MARKETING_ANALYTICS_PROJECT/blob/main/ifood.jpg)
 
-The dataset contains information of all **17125 players** from FIFA 21 edition. There are **106 attributes** including Age, Nationality, Overall, Potential, Club, Value, Wage, Preferred Foot, International Reputation, Weak Foot, Skill Moves, Work Rate, Position, Jersey Number, Joined, Loaned From, Contract Valid Until, Height, Weight among others.
+The dataset contains information of 
 
 ## Challenges
 **Perform an end-to-end analysis** 
