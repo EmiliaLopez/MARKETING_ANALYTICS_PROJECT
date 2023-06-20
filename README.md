@@ -2,7 +2,7 @@
 
 **`¡Welcome back! 👋🏼`**
  
-IFood is the lead food delivery app in Brazil, the company holds over 80% market share of the food delivery sector in Brazil. iFood broke sales records during the FIFA World Cup in Qatar, where more than 8 million orders were placed on the app over the weekend of December 2-4, the best mark in 2022.Keeping a high customer engagement is key for growing an consolidating the company's position as the market leader. The dataset is available on [Kaggle](.csv).
+IFood is the lead food delivery app in Brazil, the company holds over 80% market share of the food delivery sector in Brazil. iFood broke sales records during the FIFA World Cup in Qatar, where more than 8 million orders were placed on the app over the weekend of December 2-4, the best mark in 2022.Keeping a high customer engagement is key for growing an consolidating the company's position as the market leader. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data?datasetId=1046184&sortBy=voteCount&select=dictionary.png).
 
 ![](https://github.com/EmiliaLopez/MARKETING_ANALYTICS_PROJECT/blob/main/ifood.jpg)
 
