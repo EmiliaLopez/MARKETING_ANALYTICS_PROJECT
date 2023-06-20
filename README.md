@@ -2,9 +2,9 @@
 
 **`¡Welcome back! 👋🏼`**
  
-IFood is the lead food delivery app in Brazil, the company holds over 80% market share of the food delivery sector in Brazil. iFood broke sales records during the FIFA World Cup in Qatar, where more than 8 million orders were placed on the app over the weekend of December 2-4, the best mark in 2022.Keeping a high customer engagement is key for growing an consolidating the company's position as the market leader. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv).
+IFood is the lead food delivery app in Brazil, the company holds over 80% market share of the food delivery sector in Brazil. iFood broke sales records during the FIFA World Cup in Qatar, where more than 8 million orders were placed on the app over the weekend of December 2-4, the best mark in 2022.Keeping a high customer engagement is key for growing an consolidating the company's position as the market leader. The dataset is available on [Kaggle](.csv).
 
-![](https://github.com/EmiliaLopez/FIFA21_DA_PROJECT/blob/main/fifa.jpg.jpg)
+![](https://github.com/EmiliaLopez/MARKETING_ANALYTICS_PROJECT/blob/main/ifood.jpg)
 
 The dataset contains information of all **17125 players** from FIFA 21 edition. There are **106 attributes** including Age, Nationality, Overall, Potential, Club, Value, Wage, Preferred Foot, International Reputation, Weak Foot, Skill Moves, Work Rate, Position, Jersey Number, Joined, Loaned From, Contract Valid Until, Height, Weight among others.
 
