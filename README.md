@@ -1,4 +1,4 @@
-### Marketing_Analytics_Project
+### MARKETING ANALYTICS PROJECT
 
 **`¡Welcome back! 👋🏼`**
  
