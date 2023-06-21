@@ -18,7 +18,7 @@ The Chief Marketing Officer notifies me as markeyting analyst that recent market
 
 ## Objectives
 
-**Analyze the customer profile understanding the data set and propose data-driven solutions**.
+**Analyze the customer profile understanding the dataset and propose data-driven solutions**. Proposal of customer segmentation based on customers behaviours.
 
 **In addition, it will be necessary to predict the amount that will be spent per customer in terms of the provided customer characteristics**. 
 
