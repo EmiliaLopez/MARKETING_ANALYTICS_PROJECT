@@ -18,9 +18,11 @@ The Chief Marketing Officer notifies me as markeyting analyst that recent market
 
 ## Objectives
 
-The objective of the data analysis team is analyze the customer profile understanding the data set and propose data-driven solutions.
+**Analyze the customer profile understanding the data set and propose data-driven solutions**.
 
-In addition, it will be necessary to predict the amount that will be spent per customer in terms of the provided customer characteristics. This analysis will provide marketers with valuable insights to shape strategic decisions regarding advertising and efectively target a chosen group of potential customers, utilizing predictions of their future spending patterns.
+**In addition, it will be necessary to predict the amount that will be spent per customer in terms of the provided customer characteristics**. 
+
+This analysis will provide marketers with valuable insights to shape strategic decisions regarding advertising and efectively target a chosen group of potential customers, utilizing predictions of their future spending patterns.
 
 
 ## Challenges
