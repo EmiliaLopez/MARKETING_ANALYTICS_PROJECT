@@ -20,7 +20,7 @@ The Chief Marketing Officer notifies me as markeyting analyst that recent market
 
 **Analyze the customer profile understanding the dataset and propose data-driven solutions**. Proposal of customer segmentation based on customers behaviours.
 
-**In addition, it will be necessary to predict the amount that will be spent per customer in terms of the provided customer characteristics**. 
+**Prediction of the amount that will be spent per customer in terms of the provided customer characteristics**. 
 
 This analysis will provide marketers with valuable insights to shape strategic decisions regarding advertising and efectively target a chosen group of potential customers, utilizing predictions of their future spending patterns.
 
