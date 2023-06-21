@@ -33,7 +33,7 @@ In addition, it will be necessary to predict the amount that will be spent per c
 1. **Data Cleaning**: Handling missing values, removing duplicates, correcting data types, renaming columns, handling inconsistencies in data..
 2. **Data Wrangling**: Filtering rows based on conditions, sorting data, reshaping data, grouping data based on categories..
 3. **EDA**: computing statistics, cratin visualization to explore data, exploring distribution, identifying correlations, detecting patterns and trends in data.
-4. **Answer the following questiions od the CMO**:
+4. **Answer the following questions of the CMO**:
 
 - What does the Average customer look like for our company?
 - What Products and Channels of Revenue are best performing?
