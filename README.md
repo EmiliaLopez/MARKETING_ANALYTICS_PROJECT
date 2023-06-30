@@ -41,8 +41,6 @@ This analysis will provide marketers with valuable insights to shape strategic d
 - What Products are best performing?
 - Which channels are underperforming?
 - Which Marketing Campaigns were most successful?
-- What factors contribute to the success of our current campaign?
-
 
 5. **Power BI dashboard**: Create a dashboard on Power BI to expose the relevant insights of the anlysis and exposing the results of previous questions.
 6. **Predicting amount that will be spent**: splitting data into Features, train/Test Split data, transform data for training a Linear Regression model, train and test models using normalized and standardized numerical data.
